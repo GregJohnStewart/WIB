@@ -1,2 +1,9 @@
-greeting:
-  message: "hello"
+
+quarkus:
+  log:
+    level: INFO
+
+"%dev":
+  quarkus:
+    log:
+      level: DEBUG

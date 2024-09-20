@@ -1,4 +1,4 @@
-package org.acme;
+package org.acme.wib;
 
 import io.smallrye.config.ConfigMapping;
 import io.smallrye.config.WithName;
